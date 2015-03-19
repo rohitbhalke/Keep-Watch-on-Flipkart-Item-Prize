@@ -30,7 +30,3 @@ while 1:
 		time.sleep(100)		#if price is not low run this code again after 5 seconds
 
 
-
-
-#print objectCamera
-# print soup.get_text()
